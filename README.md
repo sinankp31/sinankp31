@@ -19,13 +19,13 @@
 <img src="https://skillicons.dev/icons?i=js,ts,c,java,html,css" />
 
 **Frameworks / Libraries**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,sql,tailwind,firebase" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,firebase" />
 
 **Hardware & Embedded**  
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
 
 **Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postmanapi,figma" />
 
 </div>
 
