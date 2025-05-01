@@ -19,7 +19,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,c,java,html,css" />
 
 **Frameworks / Libraries**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,firebase" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,sql,tailwind,firebase" />
 
 **Hardware & Embedded**  
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
