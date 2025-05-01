@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Sinan K P</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Tech+Innovator+%7C+Problem+Solver;Embedded+Systems+Enthusiast&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Tech+Innovator;Problem+Solver;Embedded+Systems+Enthusiast&center=true&width=500&height=45">
 </p>
 
 🧑‍💻About Me
