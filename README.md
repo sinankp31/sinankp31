@@ -25,7 +25,7 @@
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
 
 **Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,chatgpt" />
 
 </div>
 
