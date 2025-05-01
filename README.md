@@ -13,9 +13,21 @@
 
 🧰Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,py,arduino,firebase,git,linux&theme=light" />
-</p>
+<div align="center">
+  
+**Languages**  
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,py,html,css" />
+
+**Frameworks / Libraries**  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,firebase" />
+
+**Hardware & Embedded**  
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
+
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
 
 📫Connect with Me
 
