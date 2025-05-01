@@ -16,7 +16,7 @@
 <div align="center">
   
 **Languages**  
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,py,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,c,java,html,css" />
 
 **Frameworks / Libraries**  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,firebase" />
