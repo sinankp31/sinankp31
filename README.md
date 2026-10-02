@@ -2,6 +2,15 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Tech+Innovator;Problem+Solver;Embedded+Systems+Enthusiast&center=true&width=500&height=45">
+  
+</p>
+<p align="center">
+  <a href="https://github.com/sinankp31">
+    <img src="https://komarev.com/ghpvc/?username=sinankp31&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/sinankp31?tab=followers">
+    <img src="https://img.shields.io/github/followers/sinankp31?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+  </a>
 </p>
 
 🧑‍💻About Me
