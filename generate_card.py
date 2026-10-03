@@ -18,7 +18,7 @@ CONFIG = {
 ROWS = [
     ("kv", "Status", "Open to work", {"status": True}),
     ("kv", "Role", "Full Stack Developer (MERN)"),
-    ("kv", "Location", "City, Country"),
+    ("kv", "Malappuram", "Kerala, India"),
     ("sec", "Tech Stack"),
     ("kv", "Languages", "Java, JavaScript, TypeScript"),
     ("kv", "Frontend", "React, Redux, Tailwind CSS"),
@@ -27,10 +27,9 @@ ROWS = [
     ("kv", "Tools", "Git, GitHub"),
     ("kv", "CS Core", "DSA, System Design"),
     ("sec", "Contact"),
-    ("kv", "Email", "your.email@example.com"),
-    ("kv", "LinkedIn", "in/your-linkedin"),
-    ("kv", "Portfolio", "yourname.dev"),
-    ("kv", "Twitter", "@your_handle"),
+    ("kv", "Email", "muhammedsinankp31@gmail.com"),
+    ("kv", "LinkedIn", "in/muhammedsinankp31"),
+    ("kv", "Portfolio", "sinankp31.vercel.app"),
     ("sec", "GitHub Stats"),
     ("stat", "Repos", "repos"),
     ("stat", "Stars", "stars"),
@@ -237,7 +236,7 @@ def render(theme, cfg, stats):
 
 def main():
     out = Path(__file__).resolve().parent
-    stats = fetch_stats(CONFIG["username"]) if CONFIG["username"] != "YOUR_GITHUB_USERNAME" else {}
+    stats = fetch_stats(CONFIG["username"]) if CONFIG["username"] != "sinankp31" else {}
     for theme in THEMES:
         path = out / f"{theme}_mode.svg"
         path.write_text(render(theme, CONFIG, stats), encoding="utf-8")
