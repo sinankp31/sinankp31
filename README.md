@@ -40,19 +40,20 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Veto**](https://github.com/sinankp31/veto) | VETO is a full-stack clothing store with refresh-token rotation, a per-size stock cart, ImageKit image uploads, and a seller dashboard for managing products. | `React` `Node.js` `MongoDB` `Express` `Vite` |
-| [**Posty**](https://github.com/sinankp31/posty) | Posty is a full-stack photo gallery where users upload images with captions and browse them in a searchable, responsive gallery | `Javascript` `Express.js` `MongoDB` `ImageKit` `React` `Node.js` |
-| [**Shrinky**](https://github.com/sinankp31/shrinky) | A full-stack URL shortener that turns long links into short ones, redirects with a 302 and counts clicks | `Javascript` `MongoDB` `REST APIs` `React` `Node.js` |
+| [**Veto**](https://github.com/sinankp31/veto) | VETO is a full-stack clothing store with refresh-token rotation, a per-size stock cart, ImageKit image uploads, and a seller dashboard for managing products and orders | `JavaScript` `Node.js` `MongoDB` `REST APIs` `React` |
+| [**Posty**](https://github.com/sinankp31/posty) | Posty is a full-stack photo gallery where users upload images with captions and browse them in a searchable, responsive gallery | `JavaScript` `Express.js` `MongoDB` `REST APIs` `React` |
+| [**Shrinky**](https://github.com/sinankp31/shrinky) | A full-stack URL shortener that turns long links into short ones, redirects with a 302 and counts clicks | `JavaScript` `MongoDB` `REST APIs` `Node.js` |
 
 ---
 
 ## 📫 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR_PORTFOLIO.dev"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://github.com/sinankp31"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/sinankp31"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hello@sinankp31.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/sinankp31"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://x.com/sinankp31"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 <p align="center">
