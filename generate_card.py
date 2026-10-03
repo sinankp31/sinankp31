@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-"""
-Generates a neofetch-style GitHub profile card (dark_mode.svg + light_mode.svg).
-
-1. Edit CONFIG and ROWS below.
-2. Run:  python generate_card.py
-   (set GH_USERNAME and GH_TOKEN env vars to pull live GitHub stats)
-"""
 import html
 import json
 import os
@@ -17,8 +9,8 @@ from string import Template
 # EDIT ME
 # ----------------------------------------------------------------------------
 CONFIG = {
-    "username": os.getenv("GH_USERNAME", "YOUR_GITHUB_USERNAME"),
-    "name": "Your Name",
+    "username": os.getenv("sinankp31", "sinankp31"),
+    "name": "Muhammed Sinan K P",
     "quote": '// "Talk is cheap. Show me the code." - Linus Torvalds',
 }
 
